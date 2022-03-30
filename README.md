@@ -2,4 +2,5 @@
 
 ## Lista de Exercicios
 
-- [Exercicios](exercicio1.html)
+- [Exercicios](Exercicio1.html)
+- [Exercicio2](Exercicio2.html)
